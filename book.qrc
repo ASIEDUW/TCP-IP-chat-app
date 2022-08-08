@@ -1,0 +1,102 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="win">appico/win.png</file>
+<file alias="menu">appico/manu.png</file>
+<file alias="settings">appico/settings.png</file>
+<file alias="calendar">appico/calendar.png</file>
+<file alias="note">appico/notes.png</file>
+<file alias="tspeech">appico/mik1.png</file>
+<file alias="emoji">appico/like.png</file>
+<file alias="file">appico/dir.png</file>
+<file alias="send">appico/paper.png</file>
+<file alias="clock">appico/clock1.png</file>
+<file alias="feed">appico/feedback.png</file>
+
+<file alias="em1">appico/icons/em1.png</file>
+<file alias="em2">appico/icons/em2.png</file>
+<file alias="em3">appico/icons/em3.png</file>
+<file alias="em4">appico/icons/em4.png</file>
+<file alias="em5">appico/icons/em5.png</file>
+<file alias="em6">appico/icons/em6.png</file>
+<file alias="em7">appico/icons/em7.png</file>
+<file alias="em8">appico/icons/em8.png</file>
+<file alias="em9">appico/icons/em9.png</file>
+<file alias="em10">appico/icons/em10.png</file>
+<file alias="em11">appico/icons/em11.ico</file>
+<file alias="em12">appico/icons/em12.ico</file>
+<file alias="em13">appico/icons/em13.png</file>
+<file alias="em14">appico/icons/em14.ico</file>
+<file alias="em15">appico/icons/em15.ico</file>
+<file alias="em16">appico/icons/em16.ico</file>
+<file alias="em17">appico/icons/em17.ico</file>
+<file alias="em18">appico/icons/em18.ico</file>
+<file alias="em19">appico/icons/em19.ico</file>
+<file alias="em20">appico/icons/em20.ico</file>
+<file alias="em21">appico/icons/em21.ico</file>
+<file alias="em22">appico/icons/em22.ico</file>
+<file alias="em23">appico/icons/em23.ico</file>
+<file alias="em24">appico/icons/em24.ico</file>
+<file alias="em25">appico/icons/em25.ico</file>
+<file alias="em26">appico/icons/em26.ico</file>
+<file alias="em27">appico/icons/em27.ico</file>
+<file alias="em28">appico/icons/em28.ico</file>
+<file alias="em29">appico/icons/em29.ico</file>
+<file alias="em30">appico/icons/em30.ico</file>
+<file alias="em31">appico/icons/em31.ico</file>
+<file alias="em32">appico/icons/em32.ico</file>
+<file alias="em33">appico/icons/em33.ico</file>
+<file alias="em34">appico/icons/em34.ico</file>
+<file alias="em35">appico/icons/em35.ico</file>
+<file alias="em36">appico/icons/em36.ico</file>
+<file alias="em37">appico/icons/em37.ico</file>
+<file alias="em38">appico/icons/em38.ico</file>
+<file alias="em39">appico/icons/em39.ico</file>
+<file alias="em40">appico/icons/em40.ico</file>
+<file alias="em41">appico/icons/em41.ico</file>
+<file alias="em42">appico/icons/em42.ico</file>
+<file alias="em43">appico/icons/em43.ico</file>
+<file alias="em44">appico/icons/em44.ico</file>
+<file alias="em45">appico/icons/em45.ico</file>
+<file alias="em46">appico/icons/em46.ico</file>
+<file alias="em47">appico/icons/em47.ico</file>
+<file alias="em48">appico/icons/em48.ico</file>
+<file alias="em49">appico/icons/em49.png</file>
+<file alias="em50">appico/icons/em50.ico</file>
+<file alias="em51">appico/icons/em51.ico</file>
+<file alias="em52">appico/icons/em52.ico</file>
+<file alias="em53">appico/icons/em53.png</file>
+<file alias="em54">appico/icons/em54.png</file>
+<file alias="em55">appico/icons/em55.png</file>
+<file alias="em56">appico/icons/em56.png</file>
+<file alias="em57">appico/icons/em57.ico</file>
+<file alias="em58">appico/icons/em58.png</file>
+<file alias="em59">appico/icons/em59.png</file>
+<file alias="em60">appico/icons/em60.png</file>
+<file alias="em61">appico/icons/em61.png</file>
+<file alias="em62">appico/icons/em62.png</file>
+<file alias="em63">appico/icons/em63.png</file>
+<file alias="em64">appico/icons/em64.png</file>
+<file alias="em65">appico/icons/em65.png</file>
+<file alias="em66">appico/icons/em66.ico</file>
+<file alias="em67">appico/icons/em67.png</file>
+<file alias="em68">appico/icons/em68.png</file>
+
+<file alias="em69">appico/icons/em69.png</file>
+<file alias="em70">appico/icons/em70.png</file>
+<file alias="em71">appico/icons/em71.png</file>
+<file alias="em72">appico/icons/em72.png</file>
+<file alias="em73">appico/icons/em73.png</file>
+<file alias="em74">appico/icons/em74.png</file>
+<file alias="em75">appico/icons/em75.png</file>
+<file alias="em76">appico/icons/em76.png</file>
+<file alias="em77">appico/icons/em77.png</file>
+<file alias="em78">appico/icons/em78.png</file>
+<file alias="em79">appico/icons/em79.png</file>
+<file alias="em80">appico/icons/em80.png</file>
+
+<file alias="sound">appico/icons/messound.wav</file>
+
+
+
+</qresource>
+</RCC>
